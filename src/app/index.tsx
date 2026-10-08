@@ -32,6 +32,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  lista : {height: "100%", width: "100%" }
+  lista: { height: "100%", width: "100%" }
 });
 
